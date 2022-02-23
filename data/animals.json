@@ -108,6 +108,33 @@
         "loving"
       ],
       "id": "10"
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "HairyOaf",
+      "species": "bigDumbGorilla",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "stupid"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "slitheryDumbAss",
+      "species": "scaleySnake",
+      "diet": "carnivore",
+      "personalityTraits": [
+        ""
+      ],
+      "id": "13"
     }
   ]
 }
