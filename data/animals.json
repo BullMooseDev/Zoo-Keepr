@@ -135,6 +135,15 @@
         ""
       ],
       "id": "13"
+    },
+    {
+      "name": "Cleo",
+      "species": "Feline Americana",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "14"
     }
   ]
 }
